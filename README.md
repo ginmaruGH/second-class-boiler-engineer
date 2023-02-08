@@ -1,2 +1,3 @@
-# second-class-boiler-engineer
-2級ボイラー技士試験
+# 2級ボイラー技士試験勉強
+
+- [2級ボイラー技士試験過去問題集](https://kako-mon.com/2-bo/)
